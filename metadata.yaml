@@ -2,5 +2,5 @@ homepage: "https://www.rightcliq.com"
 documentation: "https://www.rightcliq.com/docs-gtm-template"
 versions:
   # Latest version
-  - sha: 6b4824acab73e5e0150b2153c9ea8e674a1cc21d
-    changeNotes: Initial release of RightCliq GTM Template.
+  - sha: 4beef19e7acf6330b2a8c866e5db89095ae81ada
+    changeNotes: Release v1
